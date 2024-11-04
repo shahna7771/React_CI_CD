@@ -1,0 +1,19 @@
+{
+  "name": "new_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahna7771/React_CI_CD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahna7771/React_CI_CD/issues"
+  },
+  "homepage": "https://github.com/shahna7771/React_CI_CD#readme"
+}
