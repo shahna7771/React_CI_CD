@@ -23,6 +23,6 @@ jobs:
         run: ls
   
       - name: "run build"
-        run: npm run build
+        run: npm run 
       
       
